@@ -1,2 +1,1 @@
-# PrepCours-Henry
-Este es un repoitorio de prueba del modulo 2
+este repositorio es una prueba de como crearr un repositorio y como clonarlo desde githab
